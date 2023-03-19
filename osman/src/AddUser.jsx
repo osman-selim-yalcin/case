@@ -54,7 +54,7 @@ export default function AddUser() {
 				<div className="f-row">
 					<div className="input-wrap">
 						<label htmlFor="birth">Birth</label>
-						<input type="date" placeholder="Birth" id="birth" name='birthDate'  onChange={handleChange} required/>
+						<input type="date" placeholder="Birth" id="birth" name='birthDate'  onChange={handleChange}/>
 					</div>
 				</div>
 				<div className="f-row">

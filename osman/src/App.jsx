@@ -1,4 +1,3 @@
-import './App.css'
 import AddUser from './AddUser'
 import UserList from './UserList'
 import Home from './Home'
